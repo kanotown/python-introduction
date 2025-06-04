@@ -4,12 +4,24 @@
 
 ## [Python Basic](./python-basic/index.md)
 
+Python の基礎文法、変数、関数、制御構文など。
+
 ## [NumPy](./python-advanced/numpy/index.md)
+
+多次元配列操作と数値計算のための高速ライブラリ。
 
 ## [pandas](./python-advanced/pandas/index.md)
 
+データ分析・操作のための高機能ライブラリ。
+
 ## [Mutplotlib](./python-advanced/matplotlib/index.md)
+
+Python の最も基本的なデータ可視化ライブラリ。
 
 ## [Seaborn](./python-advanced/seaborn/index.md)
 
+美しい統計グラフを簡単に作成できる可視化ライブラリ。
+
 ## [Plotly](./python-advanced/plotly/index.md)
+
+インタラクティブなグラフを作成することができるライブラリ。
