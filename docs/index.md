@@ -1,19 +1,15 @@
-# データ活用法
+# Python Introduction
 
-本サイトは 2025 年度 茨城大学 地域未来共創学環「データ活用法」の講義資料置場です。
+本サイトは 2025 年度 茨城大学 地域未来共創学環「データ活用法」における、Python 入門用の資料置場です。
 
-## 講義スケジュール
+## [Python Basic](./python-basic/index.md)
 
-- 第 1 回 (4/15)　[ガイダンス、データ活用事例の紹介、Python 環境の準備](./du2025/1.md)
-- 第 2 回 (4/22)　[データ可視化 (1)](./du2025/2.md)
-- 第 3 回 (5/08)　[データ可視化 (2)](./du2025/3.md)
-- 第 4 回 (5/13)　[データ操作の基礎 - NumPy](./du2025/4.md)
-- 第 5 回 (5/20)　[データ操作の基礎 - pandas](./du2025/5.md)
-- 第 6 回 (5/27)　[データの前処理](./du2025/6.md)
-- 第 7 回 (6/03)　[時系列データ分析](./du2025/7.md)
-- 第 8 回 (6/10)　テキストデータ処理 (1)
-- 第 9 回 (6/17)　テキストデータ処理 (2)
-- 第 10 回 (6/24)　画像処理 (1)
-- 第 11 回 (7/01)　画像処理 (2)
-- 第 12 回 (7/08)　 SQL の基礎 (1)
-- 第 13 回 (7/15)　 SQL の基礎 (2)、まとめ
+## [NumPy](./python-advanced/numpy/index.md)
+
+## [pandas](./python-advanced/pandas/index.md)
+
+## [Mutplotlib](./python-advanced/matplotlib/index.md)
+
+## [Seaborn](./python-advanced/seaborn/index.md)
+
+## [Plotly](./python-advanced/plotly/index.md)
