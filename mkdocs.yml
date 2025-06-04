@@ -9,7 +9,7 @@ repo_url: https://github.com/kanotown/python-introduction
 # Navigation
 nav:
   - 🎓️ Material: https://du2025.ibadai.com/
-  - '<img src="../../img/logo_penguin_clear.png" height="17" style="margin-right:0.5em">Python': index.md
+  - '<img src="/img/logo_penguin_clear.png" height="17" style="margin-right:0.5em">Python': index.md
   - Python Basic:
       - python-basic/index.md
       - 1. Python の特徴と基本構造: python-basic/1.md
