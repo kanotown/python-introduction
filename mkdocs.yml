@@ -104,8 +104,8 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: blue
-      accent: blue
+      primary: default
+      accent: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode

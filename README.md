@@ -1,11 +1,10 @@
-# データ活用法 Docs
+# Python Introduction
 
-茨城大学 地域未来共創学環「データ活用法」の講義資料です。  
-This repository contains course materials for "Data Utilization Techniques" at School of Collaborative Regional Innovation, Ibaraki University.
+茨城大学 地域未来共創学環「データ活用法」における Python 入門用資料です。
 
 ## サイト情報 / Site Information
 
-- **URL**: [https://du2025.ibadai.com/](https://du2025.ibadai.com/)
+- **URL**: [https://python.ibadai.com/](https://python.ibadai.com/)
 - **Technologies Used**: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 ## 利用条件
@@ -19,9 +18,7 @@ This repository contains course materials for "Data Utilization Techniques" at S
 
 ## 更新履歴
 
-- 2025/05/27: 第 6 回 講義資料 公開
-- 2025/05/25: 第 6 回 講義資料（予習用） 公開
-- 2025/05/18: 講義資料（MkDocs 版）初版公開
+- 2025/06/04: 初版公開
 
 ## ライセンス
 
