@@ -42,5 +42,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
+          cname: python.ibadai.com
           user_name: kanotown
           user_email: kanotown@users.noreply.github.com
