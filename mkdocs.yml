@@ -150,6 +150,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+  - toc:
+      permalink: true
+      title: 目次
+      permalink_title: アンカーリンク
+      slugify: !!python/object/apply:builtins.eval
+        args:
+          - |
+            lambda text, sep: __import__('re').sub(r'[^\w\.\-_]+', sep, text.lower()).strip(sep)
+
 # Plugins
 plugins:
   - search
